@@ -1,0 +1,5 @@
+*.vcd
+*.cf
+work-obj93.cf
+*.o
+*.ghw
